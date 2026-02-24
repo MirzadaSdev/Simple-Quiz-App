@@ -63,7 +63,7 @@ header h1 {
   font-size: clamp(1rem, 3vw, 1.3rem);
   margin-bottom: 20px;
   color: cadetblue;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 
 /* Answers */
